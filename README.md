@@ -8,6 +8,7 @@ It includes interactive features like movie browsing, personalized profiles, and
 ##  Live Demo
 🔗 [View Deployed Project](#)  
 Link: https://cinestream-app.vercel.app
+# **Note:** To access the app, you must first **create an account** and then **sign in**.
 
 ---
 
