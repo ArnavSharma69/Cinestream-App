@@ -7,7 +7,7 @@ It includes interactive features like movie browsing, personalized profiles, and
 
 ##  Live Demo
 🔗 [View Deployed Project](#)  
-*(Link will be added once deployed)*
+Link: https://cinestream-app.vercel.app/home(#)
 
 ---
 
