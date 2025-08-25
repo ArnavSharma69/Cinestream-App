@@ -10,6 +10,11 @@ It includes interactive features like movie browsing, personalized profiles, and
 Link: https://cinestream-app.vercel.app
 # **Note:** To access the app, you must first **create an account** and then **sign in**.
 
+##  Test Account (Demo Login)
+If you don’t want to sign up, you can log in using the following demo credentials: 
+Email: arnavsharma6788@gmail.com
+Password:123456
+
 ---
 
 ##  Features
